@@ -65,7 +65,7 @@
 #### ¿Te gustó este Readme?
 
 - [x] Sí
-- [ ]
+- [ ] No
 
 
 
