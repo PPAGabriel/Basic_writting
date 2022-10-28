@@ -62,4 +62,10 @@
 ###### Bastante se ha hablado de los múltiples cambios que ha hecho el *FC Barcelona* para suplir la baja del argentino, pero hasta el sol de hoy, no han encontrado la formula correcta del éxito. Lo que sí podemos decir, es que para encontrar a otro jugador con las estadísticas y rendimiento del Rosarino, es una tarea casi imposible.
 
 
+#### ¿Te gustó este Readme?
+
+[x] Sí
+[ ]
+
+
 
