@@ -1,8 +1,7 @@
-#   El Barcelona y la Messidependencia:
+#   El FC Barcelona y la Messidependencia:
 
 ###### Poco se habla de la debacle que ha sufrido el **FC Barcelona** desde la partida de Lionel Andrés Messi. Como bien comentan los expertos, las estadistícas no mienten:
 
-> *Datos proporcionados por la UEFA*
 
 | Temporada | Competición  | Presencia de Messi |
 | --------- | ------------ | ------------------ |
@@ -26,3 +25,10 @@
 | 2020-2021 | Champions    | Con presencia      |
 | 2021-2022 | Europa League| Sin presencia      |
 | 2022-2023 | Europa League| Sin presencia      |
+
+
+> *Datos proporcionados por la UEFA*
+
+## Antecedentes
+
+###### Si nos fijamos en los números del argentino, este presentó en su primera temporada con el primer equipo un promedio de  ***0.32 goles/partido***, el cual subió de una manera exponencial llegando a marcar más de 30 goles por temporada, llegando a cifras como ***1.22 goles/partido***. Estas cifras dejan expuesta la dependencia del club blaugrana para enfrentar los partidos y ganarlos, teniendo a semejante máquina de hacer goles.
