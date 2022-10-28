@@ -64,8 +64,8 @@
 
 #### ¿Te gustó este Readme?
 
--[x] Sí
--[ ]
+- [x] Sí
+- [ ]
 
 
 
