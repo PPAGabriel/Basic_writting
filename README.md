@@ -57,9 +57,10 @@
 
 ###### Los presentes capitanes han demostrado que ya *no tienen el nivel para competir en la élite*, siendo 'retratados' en los partidos con errores que le han costado al club blaugrana la eliminación en la competición.
 
-## Conclusión
-
-###### Bastante se ha hablado de los múltiples cambios que ha hecho el *FC Barcelona* para suplir la baja del argentino, pero hasta el sol de hoy, no han encontrado la formula correcta del éxito. Lo que sí podemos decir, es que para encontrar a otro jugador con las estadísticas y rendimiento del Rosarino, es una tarea casi imposible.
+<details><summary><h2>Conclusión</h2></summary>
+  <p><h4>Bastante se ha hablado de los múltiples cambios que ha hecho el *FC Barcelona* para suplir la baja del argentino, pero hasta el sol de hoy, no han encontrado la formula correcta del éxito. Lo que sí podemos decir, es que para encontrar a otro jugador con las estadísticas y rendimiento del Rosarino, es una tarea casi imposible.</h4></p>
+</details>
+  
 
 
 #### ¿Te gustó este Readme?
