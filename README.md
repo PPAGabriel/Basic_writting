@@ -55,7 +55,11 @@
 
 ![Imagen de Capitanes 2022-2023](https://www.lavanguardia.com/files/image_449_220/uploads/2022/06/06/629e3f72d170c.jpeg)
 
-###### Los presentes capitanes han demostrado que ya *no tienen el nivel para competir en la élite*, siendo 'retratados' en los partidos con errores que le han costado al club blaugrana la eliminación en la competici
+###### Los presentes capitanes han demostrado que ya *no tienen el nivel para competir en la élite*, siendo 'retratados' en los partidos con errores que le han costado al club blaugrana la eliminación en la competición.
+
+##Conclusión
+
+###### Bastante se ha hablado de los múltiples cambios que ha hecho el *FC Barcelona* para suplir la baja del argentino, pero hasta el sol de hoy, no han encontrado la formula correcta del éxito. Lo que sí podemos decir, es que para encontrar a otro jugador con las estadísticas y rendimiento del Rosarino, es una tarea casi imposible.
 
 
 
