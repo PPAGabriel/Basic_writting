@@ -53,5 +53,5 @@
 
 ###### En su momento, el aficionado contrario se quejaba del sobrecuidado que se le daba a Messi. Hoy en día este problema se ha trasladado a los actuales capitanes del club: ****Gerard Piqué, Sergi Roberto, Jordi Alba y Sergio Busquets***
 
-![Imagen de Capitanes 2022-2023](https://www.fcbarcelona.com/photo-resources/2021/08/09/54f1d833-1d49-4111-b47f-cc964f06f3a9/2021-08-09-ENTRENO-05.JPG?width=1200&height=750)
+![Imagen de Capitanes 2022-2023](https://www.lavanguardia.com/files/image_449_220/uploads/2022/06/06/629e3f72d170c.jpeg)
 
