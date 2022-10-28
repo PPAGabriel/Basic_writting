@@ -51,7 +51,11 @@
 
 ## Las "Vacas Sagradas"
 
-###### En su momento, el aficionado contrario se quejaba del sobrecuidado que se le daba a Messi. Hoy en día este problema se ha trasladado a los actuales capitanes del club: ****Gerard Piqué, Sergi Roberto, Jordi Alba y Sergio Busquets***
+###### En su momento, el aficionado contrario se quejaba del cuidado "radical" que se le daba a Messi. Hoy en día este problema se ha trasladado a los actuales capitanes del club: ***Gerard Piqué, Sergi Roberto, Jordi Alba y Sergio Busquets***
 
 ![Imagen de Capitanes 2022-2023](https://www.lavanguardia.com/files/image_449_220/uploads/2022/06/06/629e3f72d170c.jpeg)
+
+###### Los presentes capitanes han demostrado que ya *no tienen el nivel para competir en la élite*, siendo 'retratados' en los partidos con errores que le han costado al club blaugrana la eliminación en la competici
+
+
 
