@@ -32,3 +32,5 @@
 ## Antecedentes
 
 ###### Si nos fijamos en los números del argentino, este presentó en su primera temporada con el primer equipo un promedio de  ***0.32 goles/partido***, el cual subió de una manera exponencial llegando a marcar más de 30 goles por temporada, llegando a cifras como ***1.22 goles/partido***. Estas cifras dejan expuesta la dependencia del club blaugrana para enfrentar los partidos y ganarlos, teniendo a semejante máquina de hacer goles.
+
+###### Para mayor información referente a los números de Messi, [Diario AS](https://resultados.as.com/resultados/ficha/deportista/messi/15167/) nos facilita la tarea.
