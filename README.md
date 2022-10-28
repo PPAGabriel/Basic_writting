@@ -43,7 +43,7 @@
 - Joules Koundé (Francia).
 - Raphinha (Brasil).
 
-###### Sin dejar a un lado los diamantes en bruto que ha forjado [la Masía](https://es.wikipedia.org/wiki/F%C3%BAtbol_base_del_F%C3%BAtbol_Club_Barcelona) en los ultimos años, como lo es el actual Golden Boy: **"Gavi"**, y fichajes jóvenes como fue el caso de "Pedri". No obstante, la dinámica del primer equipo no ha vuelto a ser tan eficiente como antes.
+###### Sin dejar a un lado los diamantes en bruto que ha forjado [La Masía](https://es.wikipedia.org/wiki/F%C3%BAtbol_base_del_F%C3%BAtbol_Club_Barcelona) en los ultimos años, como lo es el actual Golden Boy: **"Gavi"**, y fichajes jóvenes como fue el caso de "Pedri". No obstante, la dinámica del primer equipo no ha vuelto a ser tan eficiente como antes.
 
 ###### Palabras del entrenador, Xavi Hernández, parafraseando al argentino al caer eliminados de Champions en fase de grupos:
 
