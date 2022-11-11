@@ -47,7 +47,7 @@
 
 ###### Palabras del entrenador, Xavi Hernández, parafraseando al argentino al caer eliminados de Champions en fase de grupos:
 
-#### ***Tenemos muchas cosas por mejorar y se ha visto que  no nos llega para competir en Champions. Tenemos que mejorar muchísimo y ser autocríticos para seguir adelante****
+#### ***"Tenemos muchas cosas por mejorar y se ha visto que  no nos llega para competir en Champions. Tenemos que mejorar muchísimo y ser autocríticos para seguir adelante"***
 
 ## Las "Vacas Sagradas"
 
